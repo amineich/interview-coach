@@ -1,0 +1,9 @@
+# Données personnelles : jamais dans le dépôt
+questions.md
+config.json
+tests/
+# Python
+__pycache__/
+*.pyc
+.venv/
+.DS_Store
